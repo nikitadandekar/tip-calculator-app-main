@@ -132,7 +132,7 @@ body {
 }
 .Right {
   width: 370px;
-  height: 420px;
+  height: 450px;
   background-color: hsl(183, 100%, 15%);
   border-radius: 20px;
   margin-left: 30px;
@@ -143,12 +143,17 @@ body {
   padding-left: 50px;
   padding-top: 50px;
 }
+.PHOTO {
+  display: flex;
+  gap: 130px;
+}
 .Right3 h1 {
   color: hsl(172, 67%, 45%);
-  padding-left: 150px;
+  padding-top: 20px;
+  /* padding-left: 150px;
   margin-bottom: 2px;
   display: flex;
-  justify-content: center;
+  justify-content: center; */
 }
 .Right1 h4 {
   color: hsl(184, 14%, 56%);
@@ -160,9 +165,6 @@ body {
 }
 .Right4 h1 {
   color: hsl(172, 67%, 45%);
-  padding-left: 150px;
-  display: flex;
-  justify-content: center;
 }
 .Right2 h4 {
   color: hsl(184, 14%, 56%);
@@ -173,10 +175,10 @@ body {
   width: 260px;
   height: 50px;
   margin-left: 50px;
-  margin-top: 40px;
+  margin-top: 150px;
 }
 .Right5 h3 {
-  padding-left: 85px;
-  padding-top: 10px;
+  padding-left: 20px;
+
   color: hsl(183, 100%, 15%);
 }
